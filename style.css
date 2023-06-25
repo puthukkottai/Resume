@@ -141,11 +141,12 @@ body {
   padding-right: 35px;
   width: 115px;
   position: relative;
+  font-weight: bold;
 }
 
 .resume_wrapper .resume_right .resume_data .content {
   padding-left: 35px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   width: calc(100% - 115px);
 }
 
@@ -232,4 +233,13 @@ body {
 }
 .course_heading {
   color: white;
+}
+.des > ul > li {
+  list-style: disc;
+}
+.line {
+  border-color: #afdbf3;
+}
+.sign {
+  text-align: end;
 }
