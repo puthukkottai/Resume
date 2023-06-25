@@ -24,7 +24,7 @@ body {
 
 .resume_wrapper .resume_left {
   width: 38%;
-  background: #26252d;
+  background: #84838b;
 }
 
 .resume_wrapper .resume_left .resume_image {
@@ -49,7 +49,7 @@ body {
 }
 
 .resume_wrapper .resume_left .resume_info {
-  color: #84838b;
+  color: #fff;
 }
 
 .resume_wrapper .resume_left .resume_bottom {
@@ -71,7 +71,7 @@ body {
 
 .resume_wrapper .resume_namerole .name {
   font-size: 20px;
-  color: #fff;
+  color: #26252d;
   text-transform: uppercase;
   font-weight: 700;
   margin-bottom: 5px;
@@ -101,7 +101,7 @@ body {
   position: relative;
   width: 125px;
   height: 20px;
-  background: #fff;
+  background: #26252d;
 }
 
 .resume_wrapper .resume_left .resume_skills .skills_list .skills_bar p span {
@@ -121,7 +121,7 @@ body {
 
 .resume_wrapper .resume_right .resume_namerole .name {
   color: #26252d;
-  font-size: 32px;
+  font-size: 18px;
 }
 
 .resume_wrapper .resume_right .resume_namerole .role {
